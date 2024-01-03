@@ -1,5 +1,5 @@
 .chris-img {
   border-radius: 50%;
-  filter: saturate(3);
+  filter: grayscale(80%);
   width: 400px;
 }
