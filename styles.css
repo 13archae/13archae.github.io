@@ -1,5 +1,13 @@
 .chris-img {
-  border-radius: 65%;
-  filter: grayscale(80%);
+  border-radius: 50%;
+  filter: saturate(3);
   width: 400px;
+  height:400px;
+}
+
+.header-text {
+  display: inline;
+  font-size: 6em;
+  font-family: arial;
+  vertical-align: middle;
 }
