@@ -1,15 +1,16 @@
 .chris-img {
-  border-radius: 50%;
+  border-radius: 100%;
   filter: grayscale(80%);
-  width: 400px;
-  height: 400px;
+  width: 250px;
+  height: 250px;
+  vertical-align: baseline;
 }
 
 .header-text {
   display: inline;
   font-size: 60pt;
   font-family: arial;
-  vertical-align: middle;
+  float: left;
 }
 
 .github-img {
