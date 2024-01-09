@@ -1,0 +1,22 @@
+.chris-img {
+  border-radius: 50%;
+  filter: grayscale(80%);
+  width: 400px;
+  height: 400px;
+}
+
+.header-text {
+  display: inline;
+  font-size: 60pt;
+  font-family: arial;
+  vertical-align: middle;
+}
+
+.github-img {
+  vertical-align: bottom;
+  padding: 10px;
+}
+
+.text-color-green {
+  color: #39ff14;
+}
