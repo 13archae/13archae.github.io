@@ -21,3 +21,8 @@
 .text-color-green {
   color: #39ff14;
 }
+
+.map {
+  width: 800px;
+  height: 600px;
+}
