@@ -2,6 +2,10 @@ a.link {
   color: #39ff14;
 }
 
+a.hover {
+  color: #f8ff00;
+}
+
 h6 {
   color: #0096ff;
 }
